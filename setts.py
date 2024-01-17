@@ -1,5 +1,5 @@
 TOKEN = "6653018212:AAEJbRSORVlm9Iwea-8E5GU0wtKaRLZiexg"
-GPT_TOKEN = "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"
+GPT_TOKEN = "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"
 
 WORDS = open("WORDS.txt", "r", encoding="UTF-8").read().splitlines()
 BANWORDS = open("banwords.txt", "r", encoding="UTF-8").read().splitlines()
